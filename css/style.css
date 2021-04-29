@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Coda+Caption:wght@800&family=Zen+Dots&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
 
+/*General Styles*/
 
 body{
     font-family: 'Rubik', sans-serif;
@@ -87,7 +88,7 @@ header nav .nav-list .list a{
     margin: 9px 0;
     text-decoration: none;
     transition: all 0.3s ease-in-out;
-    color: #fff;
+    color: rgba(255, 255, 255, 0.993);
 }
 header nav .nav-list .list a:hover{
     color: #7cb62f;
